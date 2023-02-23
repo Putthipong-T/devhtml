@@ -9,5 +9,6 @@ function myfunction()
 
 //this shows a popup window
 alert("button clicked!");
+document.body.style.backgroundColor = 'salmon';
 
 }
